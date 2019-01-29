@@ -1,0 +1,12 @@
+
+#container{
+  display: grid;
+  height: 500px;
+  width: 400px;
+}
+
+.box{
+  background-color: aquamarine;
+  border: none;
+}
+
